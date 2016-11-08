@@ -4,7 +4,6 @@ email: brimacki@unm.edu
 description: > # this means to ignore newlines until "baseurl:"
       I'm a PhD Candidate in the Department of Electrical and Computer Engineering at University of New Mexico.
         I study computational electromagnetics.
-avatar: https://avatars3.githubusercontent.com/u/5104653
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://brianmackiemason.com" # the base hostname & protocol for your site
 twitter_username: 
