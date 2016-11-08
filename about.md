@@ -10,6 +10,6 @@ I originally began my academic career in nuclear engineering with an interest of
 
 In addition to my professional interests I have found a passion in serving the student population through my participation in student government. Other personal interests of mine include exercising (in particular weightlifting), skiing, watching sports, and many other miscellaneous things.
 
-This website is hosted on Github, the domain is provided by Google, and this website is developed in Jekyll. I took this template from Steve Miller at UT-Austin.
+This website is hosted on [github.com](Github), the domain is provided by Google, and this website is developed in Jekyll. I took this template from Steve Miller at UT-Austin.
 
 If you wish to get in contact with me to form a research collaboration, discuss anything presented on this site, or for really anything else don't hesitate to contact me at the contact information provided below.
