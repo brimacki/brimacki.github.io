@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-You can download my CV [here](brimacki.github.io/CV.pdf).
+You can download my CV [here](http://brimacki.github.io/CV.pdf).
 
 
 
