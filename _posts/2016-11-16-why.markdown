@@ -2,7 +2,7 @@
 layout: post
 title:  "Why?"
 author: Brian
-date:   2015-11-09 01:00:00
+date:   2016-11-09 01:00:00
 categories: intro
 ---
 Thank you for coming to my website and participating in building my online presence. I thought I would explain the purpose of this website, the timing of its development, and why I even decided to build a catch-all website given all of the pre-built forums and landing spots already available.
