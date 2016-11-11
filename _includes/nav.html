@@ -4,7 +4,7 @@
     {% if brian.subcategories != null %}
     <li><a href="{{ brian.href }}" class="page-link">{{ brian.title }}</a>
     <ul class="sub-menu">
-    {% for subcategory in steve.subcategories %}
+    {% for subcategory in brian.subcategories %}
     <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
     {% endfor %}
     </ul>
