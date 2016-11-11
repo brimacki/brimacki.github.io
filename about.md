@@ -10,6 +10,6 @@ I originally began my academic career in nuclear engineering with an interest of
 
 In addition to my professional interests I have found a passion in serving the student population through my participation in [student government](http://gpsa.unm.edu). Other personal interests of mine include exercising (in particular weightlifting), skiing, and watching sports. You will not find a bigger University of Michigan football fan than me. Go blue!
 
-This website is hosted on [Github](http://www.github.com), the domain is provided by [Google Domain](http://domains.google), and this website is developed in [Jekyll](http://jekyllrb.com). I took this template from [Steven Miller](https://github.com/svmiller/steve-ngvb-jekyll-template) at Clemson University.
+This website is hosted on [Github](http://www.github.com), the domain is provided by [Google Domains](http://domains.google), and this website is developed in [Jekyll](http://jekyllrb.com). I took this template from [Steven Miller](https://github.com/svmiller/steve-ngvb-jekyll-template) at Clemson University.
 
 If you wish to get in contact with me to form a research collaboration, discuss anything presented on this site, or for really anything else don't hesitate to contact me at the contact information provided below.
