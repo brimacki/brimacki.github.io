@@ -6,11 +6,10 @@ description: > # this means to ignore newlines until "baseurl:"
         I study computational electromagnetics.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://brianmackiemason.com" # the base hostname & protocol for your site
-footer-links:
-    email: brimacki@unm.edu
-    twitter_username:
-    github_username:  brimacki
-    linkedin_username:  brimacki
+email: brimacki@unm.edu
+twitter_username:
+github_username:  brimacki
+linkedin_username:  brimacki
 
 # Build settings
 markdown: kramdown
