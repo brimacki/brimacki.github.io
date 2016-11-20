@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why?"
+title:  "SC16 Conference Report"
 author: Brian
 date:   2016-11-20 01:00:00
 categories: conferences
