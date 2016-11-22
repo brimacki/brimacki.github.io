@@ -6,7 +6,7 @@ layout: default
 
 <div class="home">
 	
-<h1>Welcome</h1>
+    <h2><b><font color="red">Welcome</font></b></h2>
 	
 <p>Thank you for finding your way here. This site contains information about me, my research, and other side projects I am involved in. Contact me if you have additional questions, suggestions, or complaints.</p>
 
@@ -18,7 +18,7 @@ layout: default
 <p><h2>Musings</h2></p>
 <ol>
     <li><a href="/blog/2016/11/why">Why?</a> -- I explain why I created this website and what I hope to gain from it.</li>
-    <li><a href="/blog/2016/11/SC16">SC16 Conference Report</a> -- I give a long report on the IEEE supercomputing conference that I recently attended.<li>
+    <li><a href="/blog/2016/11/SC16">SC16 Conference Report</a> -- I give a long report on the IEEE supercomputing conference that I recently attended.</li>
 </ol>
 
 <br><br>
