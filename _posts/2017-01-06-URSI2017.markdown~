@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "URSI17 Conference Report"
+author: Brian
+date:   2017-01-06 01:00:00
+categories: conferences
+---
+I attended the <a href="http://sc16.supercomputing.org/">International Conference for High Performance Computing, Networking, Storage and Analysis</a>, colloquially known as SC16, from November 13-16, 2016. It is co-sponsored by the <a href="https://www.ieee.org">IEEE</a> and <a href="https://www.acm.org">ACM</a>. At this conference I presented <a href="http://sc16.supercomputing.org/?post_type=page&p=3273&id=post273&sess=sess273">my ongoing research</a> on solving extreme-scale electromagnetic engineering problems, did extensive networking, and attended numerous technical talks and panels on a field that was relatively new to me. This conference was <i>a lot</i> larger than the conferences I have attended in the past. As an example, the <a href="http://www.2016apsursi.org/">International Symposium on Antennas & Propagation</a> has a few hundred attendees (you might ask me to be more specific, there's no need), whereas the SC16 conference had north of 10 <i>thousand</i> attendees. This presented a huge logistical problem for me as I began to sort out what to do, where to go, what to see, and so on. Below I give an accounting of my experiences there and some of the major learning opportunities I had.
+
+<h3>Day 1 -- Travel and Registration</h3>
+
+<h3>Day 2 -- Talks, early closure</h3>
+
+<h3>Day 3 -- Cancelled and extra prep time</h3>
+
+<h3>Day 4 -- Presentation day</h3>
+I began the day with some more panel discussions. The first one I attended was on <a href="http://sc16.supercomputing.org/?post_type=page&p=3273&id=pan109&sess=sess177">reproducibility in HPC</a>. The common theme I took away from this was that perhaps a bit-by-bit comparison of output results is not the best way to evaluate the correctness of a code. For one, no code we write can <i>ever</i> be completely accurate; we will always have both roundoff and truncation error, plus any number of physical modeling approximations. Floating point calculations are also handled differently on different computing architectures. Finally, the point of good software development practices, for example source control, was emphasized as a very important part of quantifying the error, and understanding its sources. <a href="http://software-carpentry.org/">Software carpentry</a> was a course that was mentioned that is worth investigating, another fellow computational physicist has also recommended it to me in the past.
+
+The other panel talk I attended was one that <a href="http://sc16.supercomputing.org/?post_type=page&p=3273&id=pan117&sess=sess176">discussed many national funding initiatives</a> towards HPC. The NCSI is a program that combines many other smaller funding agencies into one conglomerate agency. This initiative was taken because it was acknowledged that there were both shared computational resources and data across many organizations. The purpose of this funding program, from the Executive Branch of the US government, is to bring supercomputing into the exascale age.
+
+The most important part of the day was <a href="http://sc16.supercomputing.org/?post_type=page&p=3273&id=post273&sess=sess273">my poster presentation</a>. Overall, it went well. I had a variety of types of people attend my poster: professors, research scientists in the national labs, and other graduate students. Sometimes my ideas were challenged, I was given new ideas, or people were asking for advice on their own code. I also made sure to provide methods for follow up with some of the people who stopped by; I was also able to give a few people free drink tickets for the exhibition hall. After the poster presentation I had dinner with the corporate sponsor of my research and a research scientist in the <a href="https://www.nrl.navy.mil">Naval Research Lab</a>.
+
+<h3>Day 4 -- Career fair & Travel</h3>
+On the final day I went to the <a href="http://sc16.supercomputing.org/studentssc/studentpostdoc-job-fair/">career fair</a> for students and postdocs. I met with representatives from <a href="http://www.lbl.gov">LBNL</a>, <a href="https://www.anl.gov">ANL</a>, <a href="http://www.ncsa.illinois.edu">NCSA</a> (at UIllinois), and from the <a href="https://www.afrl.hpc.mil">AFRL DSRC</a>. I also discussed the possibility of remote work in the future with my industry sponsor. All in all, things went very well. Most people I met with had summer internship programs available for me to consider. However, the best contact I made was with Argonne National Labs who recommended I get in touch with a professor at the <a href="http://uchicago.edu">University of Chicago</a> for a possible postdoc opportunity that was currently posted. I also briefly learned about the tool called <a href="https://github.com/kokkos/kokkos">Kokkos</a>, developed at <a href="http://sandia.gov">Sandia National Labs</a>, and how it can help my own research. I took an <a href="https://www.uber.com">Uber</a> to the airport and traveled home without any problems (except for some really bad turbulence in the Rockies) on an indirect flight on Southwest.
+
+<h3>Summary</h3>
+All in all, I was glad to have participated in this experience. It helped to broaden my outlook on my career and helped to refocus some of my research efforts towards what's most important. It also taught me the importance of interdisciplinary collaboration. Someone who I attended the conference with told me afterwards that, "you may be thinking about the effects of placing chemicals A and B into a reactor, but someone has already solved that same problem with cats." I also could tell that there appeared to be a lot of fear over scientific funding under the new presidential administration. From my memory, though, this happens every time a new president is elected, so only time will tell.
+
+Edited for clarity and added links on 12/01/2016.
