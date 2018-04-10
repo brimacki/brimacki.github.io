@@ -2,8 +2,7 @@
 title: Brian MacKie-Mason
 # email: bmackiemason@anl.gov
 description: > # this means to ignore newlines until "baseurl:"
-      I'm a PhD Candidate in the Department of Electrical and Computer Engineering at University of New Mexico.
-        I study computational electromagnetics.
+      I'm a Postdoctoral Apppointee with the Argonne Leadership Computing Facility.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://brianmackiemason.com" # the base hostname & protocol for your site
 email: bmackiemason@anl.gov
