@@ -5,12 +5,11 @@ permalink: /contact/
 ---
 
 <h2>Email</h2>
-The best way, i.e. most likely to receive a response, is to email me at brimacki at unm dot edu or brimacki at gmail dot com.
+The best way, i.e. most likely to receive a response, is to email me at bmackiemason at anl dot gov or brimacki at gmail dot com.
 
 <h2>Mailing Address</h2>
-If you want to send snail mail, then below is my physical address:
+If you want to send snail mail this is my physical adress:
 <br>Brian MacKie-Mason
-<br>Department of Electrical and Computer Engineering
-<br>MSC01 1100
-<br>1 University of New Mexico
-<br>Albuquerque, NM 87131-0001
+<br>Argonne National Laboratory, Leadership Computing Facility
+<br>9700 S Cass Ave, Building 240
+<br>Lemont, IL 60439
