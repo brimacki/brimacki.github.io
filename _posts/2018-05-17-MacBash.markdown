@@ -2,7 +2,7 @@
 layout: post
 title:  "Mac OS X Terminal Settings"
 author: Brian
-date:   2017-01-06 01:00:00
+date:   2018-05-17 17:00:00
 categories: programming
 ---
 This is a very quick blog post about something I ran into while configuring my Mac OS X Terminal applications settings. I wanted to have a colored environment for vim, ls, ssh connections, and various other things. Anyway, one of the commands one might implement in a Linux environment is to alias ls to always use colors: alias ls='ls --colors=always'. In the MacOS environment the ls command does not accept the color=always argument, and instead the following command must be used: alias ls='ls -GFh'.
