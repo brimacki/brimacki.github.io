@@ -5,4 +5,4 @@ author: Brian
 date:   2018-05-21 17:00:00
 categories: math
 ---
-You can find this blog post [here](http://brimacki.github.io/professionalDocument/sqrt(-i).pdf).
+You can find this blog post [here](http://brimacki.github.io/professionalDocument/sqrt\(-i\).pdf).
