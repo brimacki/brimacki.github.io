@@ -1,5 +1,3 @@
 1. Populate out CV in HTML or markdown
 2. Add page on Research
 3. Add page on Other Activities
-4. Begin to write some blog posts on "random science thoughts"
-5. Look at connecting multiple social networks
