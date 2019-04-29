@@ -1,3 +1,0 @@
-1. Populate out CV in HTML or markdown
-2. Add page on Research
-3. Add page on Other Activities
