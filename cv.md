@@ -9,3 +9,5 @@ You can download my academic CV [here](http://brimacki.github.io/professionalDoc
 I have done my best to provide a link to the permanent record of each publication. The DOI and URL provided in the document is clickable.
 
 Over time I will begin to populate this website with a better organized listing of these activities.
+
+I also maintain [LinkedIn](https://www.linkedin.com/in/brimacki/), [ResearchGate](https://www.researchgate.net/profile/Brian_Mackie-Mason), and [GitHub](https://github.com/brimacki) profiles in addition to this website.
