@@ -8,8 +8,4 @@ permalink: /contact/
 The best way, i.e. most likely to receive a response, is to email me at bmackiemason at anl dot gov or brimacki at gmail dot com.
 
 <h2>Mailing Address</h2>
-If you want to send snail mail this is my physical adress:
-<br>Brian MacKie-Mason
-<br>Argonne National Laboratory, Leadership Computing Facility
-<br>9700 S Cass Ave, Building 240, 2.D.25
-<br>Lemont, IL 60439
+I am currently a remote-work employee. Please contact me by email to inquire about my physical mailing address.
