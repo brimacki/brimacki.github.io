@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
+permalink: /about/personal
 ---
 
 {% include image.html url="/images/HeadShot.jpg" caption="Brian MacKie-Mason" width=300 align="right" %}
