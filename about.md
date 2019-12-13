@@ -6,7 +6,7 @@ permalink: /about/
 
 {% include image.html url="/images/HeadShot.jpg" caption="Brian MacKie-Mason" width=300 align="right" %}
 
-To view my professional bio go [here](about/professional) and to view my personal bio go [here](about/personal).
+To view my professional bio go [here](about/professional/) and to view my personal bio go [here](about/personal/).
 
 This website is hosted on [Github](http://www.github.com), the domain is provided by [Google Domains](http://domains.google), and this website is developed in [Jekyll](http://jekyllrb.com). I took this template from [Steven Miller](https://github.com/svmiller/steve-ngvb-jekyll-template) at Clemson University.
 
