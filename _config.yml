@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
       I'm a Postdoctoral Apppointee with the Argonne Leadership Computing Facility.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://brianmackiemason.com" # the base hostname & protocol for your site
-email: bmackiemason@anl.gov
+email: brimacki@gmail.com
 twitter_username: 
 github_username:  brimacki
 linkedin_username:  brimacki
