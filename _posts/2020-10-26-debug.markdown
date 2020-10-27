@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Debug macors"
+author: Brian
+date:   2020-10-26 17:00:00
+categories: CS
+---
+You can find this blog post [here](http://brimacki.github.io/professionalDocuments/debug_macros.pdf).
