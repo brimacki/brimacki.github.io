@@ -2,7 +2,7 @@
 layout: post
 title:  "Debug macros follow-up"
 author: Brian
-date:   2020-10-26 17:00:00
+date:   2021-03-01 17:00:00
 categories: CS
 ---
 You can find this blog post [here](http://brimacki.github.io/professionalDocuments/debug_macros_2.pdf).
